@@ -6,3 +6,4 @@ This is added from RStudio
 This is an edit from GitHub
 3rd edit from RStudio - removed digits
 This is added from RStudio again
+Second edit from GitHub
